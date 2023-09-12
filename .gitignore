@@ -1,0 +1,13 @@
+# IDE, editeurs, Fichiers système 
+
+# ------------------------
+
+.idea/*              # Jetbrains / IntelliJ
+
+.vscode/*            # Visual studio
+
+**/nbproject/private/  # NetBeans
+
+*.bak
+
+.DS_Store
